@@ -1,0 +1,14 @@
+/Users/joaquintrinidad/MyProject/bin/Debug/net8.0/MyProject
+/Users/joaquintrinidad/MyProject/bin/Debug/net8.0/MyProject.deps.json
+/Users/joaquintrinidad/MyProject/bin/Debug/net8.0/MyProject.runtimeconfig.json
+/Users/joaquintrinidad/MyProject/bin/Debug/net8.0/MyProject.dll
+/Users/joaquintrinidad/MyProject/bin/Debug/net8.0/MyProject.pdb
+/Users/joaquintrinidad/MyProject/obj/Debug/net8.0/MyProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaquintrinidad/MyProject/obj/Debug/net8.0/MyProject.AssemblyInfoInputs.cache
+/Users/joaquintrinidad/MyProject/obj/Debug/net8.0/MyProject.AssemblyInfo.cs
+/Users/joaquintrinidad/MyProject/obj/Debug/net8.0/MyProject.csproj.CoreCompileInputs.cache
+/Users/joaquintrinidad/MyProject/obj/Debug/net8.0/MyProject.dll
+/Users/joaquintrinidad/MyProject/obj/Debug/net8.0/refint/MyProject.dll
+/Users/joaquintrinidad/MyProject/obj/Debug/net8.0/MyProject.pdb
+/Users/joaquintrinidad/MyProject/obj/Debug/net8.0/MyProject.genruntimeconfig.cache
+/Users/joaquintrinidad/MyProject/obj/Debug/net8.0/ref/MyProject.dll
